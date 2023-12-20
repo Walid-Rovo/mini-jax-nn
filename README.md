@@ -11,7 +11,7 @@ You need a Python interpreter with JAX and matplotlib. Example:
 ```sh
 python3 -m venv .venv  # Create a new virtual environment in the '.venv' directory
 source .venv/bin/activate  # Activate the virtual environment
-pip install jaxlib matplotlib  # Install packages using pip
+pip install jax jaxlib matplotlib  # Install packages using pip
 ```
 
 # Tips for Further Development
